@@ -1,0 +1,11 @@
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\bin\Release\LTDB.dll
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\bin\Release\LTDB.pdb
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Release\LTDB.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Release\LTDB.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Release\LTDB.dll
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Release\LTDB.pdb
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\Projetos Big Brain 5Head\LTDB\LTDB\bin\Release\LTDB.dll
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\Projetos Big Brain 5Head\LTDB\LTDB\bin\Release\LTDB.pdb
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\Projetos Big Brain 5Head\LTDB\LTDB\obj\Release\LTDB.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\Projetos Big Brain 5Head\LTDB\LTDB\obj\Release\LTDB.dll
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\Projetos Big Brain 5Head\LTDB\LTDB\obj\Release\LTDB.pdb

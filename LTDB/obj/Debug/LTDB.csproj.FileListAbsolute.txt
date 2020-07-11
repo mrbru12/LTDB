@@ -1,0 +1,6 @@
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\bin\Debug\LTDB.dll
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\bin\Debug\LTDB.pdb
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Debug\LTDB.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Debug\LTDB.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Debug\LTDB.dll
+C:\Users\Pichau\Desktop\Joguitos\Projetos Lassados\C Sharp\LTDB\LTDB\obj\Debug\LTDB.pdb
